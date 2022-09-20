@@ -1,0 +1,27 @@
+public class testing {
+    
+public static void main(String[] args) {
+       
+System.out.print("1. 5'4 lang ang tangkad \n");
+        
+System.out.print("2. Armand Adrian Biadora \n");
+        
+System.out.print("3. 19 years old \n");
+        
+System.out.print("4. Tuli na \n");
+        
+System.out.print("5. 1st year college \n");
+        
+System.out.print("6. Marikinians \n");
+        
+System.out.print("7. STIers \n");
+        
+System.out.print("8. Mahilig sa oysters \n");
+        
+System.out.print("9. Plays VB kasi ewan \n");
+        
+System.out.print("10. Maka pilipins \n");
+    
+}
+
+}
